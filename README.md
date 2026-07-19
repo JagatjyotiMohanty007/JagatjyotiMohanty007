@@ -162,6 +162,8 @@ Edge Computing
 
 ✔ SCJP
 
+✔ SCWCD
+
 ---
 
 ## 🎓 Executive Education
