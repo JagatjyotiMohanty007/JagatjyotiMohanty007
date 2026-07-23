@@ -234,11 +234,11 @@ Enterprise RAG Architecture
 
 ## 🌐 Connect With Me
 
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/jagatjyoti-mohanty/
 
-GitHub
+GitHub :   https://github.com/JagatjyotiMohanty007
 
-Email
+Email : mohanty.jagatjyoti@gmail.com 
 
 Portfolio
 
